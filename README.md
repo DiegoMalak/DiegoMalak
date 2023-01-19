@@ -39,6 +39,12 @@ Follow me on Twitter and LinkedIn to stay updated on my projects and progress in
 
 Thank you for visiting my GitHub profile! 🙏
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegomalak&show_icons=true&locale=en&layout=compact" alt="diegomalak" /></p>  
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=diegomalak&show_icons=true&locale=en" alt="diegomalak" /></p>  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegomalak&" alt="diegomalak" /></p>  
+
 <!--
 This my ✨ _personal_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
