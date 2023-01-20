@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Diego.
 
-## Bienvenido a mi perfil de GitHub 🚀
+## Welcome to my GitHub repository 🚀
 
 I am a passionate computer scientist, who after dedicating myself to hardware decided to delve into the world of software development.
 
